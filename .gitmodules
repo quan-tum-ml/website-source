@@ -1,0 +1,7 @@
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book.git
+[submodule "public"]
+	path = public
+	url = https://github.com/quan-tum-ml/quan-tum-ml.github.io.git
+	branch = master
